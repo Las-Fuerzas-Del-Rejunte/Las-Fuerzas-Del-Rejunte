@@ -28,7 +28,7 @@ Crear soluciones de software innovadoras, aplicando buenas prácticas de ingenie
 </p>
 
 ## 🔔Conocenos mejor en nuestro Notion
-👉 [![Documentacion Notion](https://img.shields.io/badge/Notion-222?&logo=notion&labelColor=000000)](https://www.notion.so/Documentaci-n-Proyecto-IMC-NestJS-Prisma-Supabase-26af37ded5398095bd6af5add928be60?source=copy_link)
+👉 [![Documentacion Notion](https://img.shields.io/badge/Notion-222?&logo=notion&labelColor=000000)](https://www.notion.so/Inicio-del-espacio-de-equipo-26a18282bc9e8004a421c0220fdd8043?source=copy_link)
 
 ## 📢 Contacto
 📧 **Email:** elian.enria1@gmail.com  
