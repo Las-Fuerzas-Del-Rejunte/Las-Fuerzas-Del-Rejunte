@@ -16,19 +16,22 @@ Crear soluciones de software innovadoras, aplicando buenas prácticas de ingenie
 ## 👥 Nuestro Equipo
 - **Estudiantes de Ingeniería en Software** de UTN-FRVM.
 - Nos enfocamos en el aprendizaje colaborativo, DevOps y desarrollo ágil.
-- Trabajamos con **Django, NestJS, React, Angular, Docker y CI/CD**.
+- Trabajamos con **Supabase, Prisma ORM, NestJS, React, Tyscript, CI/CD**.
 
 ## 🚀 Proyectos Destacados
 - [2025_proyecto1_back_imc](https://github.com/Las-Fuerzas-Del-Rejunte/2025_proyecto1_back_imc) – API REST para cálculo de IMC con NestJS y Prisma.
-- *(Puedes agregar otros proyectos relevantes aquí)*
+- [2025_proyecto1_front_imc](https://github.com/Las-Fuerzas-Del-Rejunte/2025_proyecto1_front_imc) – Frontend React y Tyscript.
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nestjs,react,angular,ts,postgres,docker,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=supabase,prisma,nestjs,react,ts,postgres,github,vercel" />
 </p>
 
+## 🔔Conocenos mejor en nuestro Notion
+👉 [![Documentacion Notion](https://img.shields.io/badge/Notion-222?&logo=notion&labelColor=000000)](https://www.notion.so/Documentaci-n-Proyecto-IMC-NestJS-Prisma-Supabase-26af37ded5398095bd6af5add928be60?source=copy_link)
+
 ## 📢 Contacto
-📧 **Email:** contacto@lasfuerzasdelrejunte.com  
+📧 **Email:** elian.enria1@gmail.com  
 💬 **GitHub Discussions:** [Abrir debate](https://github.com/orgs/Las-Fuerzas-Del-Rejunte/discussions)
 
 ---
